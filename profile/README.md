@@ -13,5 +13,5 @@ A github group for creating only the most refined, beautiful projects you have e
 
 
 ## What we are working on
-- AP Computer Science Create task - shitty tik tak toe made by robots
+- AP Computer Science Create task - tik tak toe
 - Nothing
